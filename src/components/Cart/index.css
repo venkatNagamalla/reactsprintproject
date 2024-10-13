@@ -1,0 +1,29 @@
+
+.openCard {
+    right: 0%;
+}
+
+
+.closeCard{
+    right: -85%
+}
+
+.trans{
+    transition: all 0.3s ease-in-out;
+}
+
+@media screen and (min-width:768px){
+    
+.openCard {
+    right: 0%;
+}
+
+
+.closeCard{
+    right: -40%;
+}
+}
+
+
+
+
